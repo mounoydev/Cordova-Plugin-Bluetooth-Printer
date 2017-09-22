@@ -7,6 +7,8 @@ A cordova plugin for bluetooth printer for android platform, which support text 
 - Image Printing (todo)
 - Barcode Printing (todo)
 - Gen Esc POS 
+
+
 ##Install
 Using the Cordova CLI and NPM, run:
 
