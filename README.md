@@ -13,7 +13,7 @@ A cordova plugin for bluetooth printer for android platform, which support text 
 Using the Cordova CLI and NPM, run:
 
 ```
-cordova plugin add https://github.com/pigletkps/Cordova-Plugin-Bluetooth-Printer.git
+cordova plugin add https://github.com/mounoydev/Cordova-Plugin-Bluetooth-Printer.git
 ```
 
 
